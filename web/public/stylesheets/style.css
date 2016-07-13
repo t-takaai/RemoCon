@@ -1,0 +1,17 @@
+body {
+  padding 40px;
+  margin: 40px;
+  text-align: center;
+  font-size: 60px;
+}
+
+button {
+  padding: 20px;
+  width: 400px;
+  font-size: 60px;
+}
+
+.condition-window {
+  padding: 30px;
+  font-size: 60px;
+}

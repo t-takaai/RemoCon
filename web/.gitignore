@@ -1,0 +1,4 @@
+node_modules/
+src/config/config.js
+*.pdf
+public/dist/

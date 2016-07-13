@@ -1,0 +1,7 @@
+/*Plese replace YOUR_APP by your own,
+and then change this file's name to 'default.json'.*/
+
+{
+  "serviceAccount": "YOUR_APP.json",
+  "databaseURL": "https://YOUR_APP.firebaseio.com"
+}

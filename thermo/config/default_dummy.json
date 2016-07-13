@@ -1,0 +1,13 @@
+/*Plese replace YOUR_APP by your own,
+and then change this file's name to 'default.json'.*/
+
+{
+  "fbConfig": {
+    "serviceAccount": "YOUR_APP.json",
+    "databaseURL": "https://YOUR_APP.firebaseio.com"
+  },
+  "conditionsConfig": {
+    "temperatureDataFile": "TEMPERATURE_DEVICEFILE",
+    "humidityDataFile": "HUMIDITY_DEVICEFILE"
+  }
+}
